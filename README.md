@@ -33,7 +33,7 @@ Setup steps for ASP.NET Core 1.0 development with Visual Studio Code for Windows
 ###8. Enable Portable PDBs
 - https://github.com/OmniSharp/omnisharp-vscode/wiki/Portable-PDBs#net-cli-projects-projectjson
 
-###9. Create ASP.NET Core 1.0 empty web application using Yeoman generator
+###9. Create ASP.NET Core 1.0 web application(s) using Yeoman generator
 - <i>yo aspnet</i>
 
 - F5 will now run the website on http://localhost:5000 and the breakpoint will be hit.
@@ -44,7 +44,7 @@ Setup steps for ASP.NET Core 1.0 development with Visual Studio Code for Windows
 - http://www.mithunvp.com/asp-net-core-visual-studio-code-yeoman/
 
 <p>
-For fast UI development and page preview:
+For fast Client Side/UI development and page preview:
 </p>
 
 ###Install Light-Server
