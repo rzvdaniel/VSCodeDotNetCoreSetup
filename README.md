@@ -2,11 +2,11 @@
 
 Setup steps for ASP.NET Core 1.0 development with Visual Studio Code for Windows.
 
-###1. Find a good command line tool (like Conemu) - Optional 
-- https://conemu.github.io
-
-###2. Install the latest version of .NET Command Line Interface (.NET CLI).
+###1. Install the latest version of .NET Command Line Interface (.NET CLI).
 - https://github.com/dotnet/cli
+
+###2. Use Visual Studio Code Integrated Terminal or find a good command line tool (like Conemu) - Optional 
+- https://conemu.github.io
 
 ###3. Install NPM (Node Package Manager)
 
